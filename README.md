@@ -1,5 +1,5 @@
 ### Hi there, I am Mike Thomas 👋
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikemupararano)](https://github.com/Mikemupararano/github-readme-stats)
+
 
 <a href="https://github.com/Mikemupararano/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mikemupararano" />
