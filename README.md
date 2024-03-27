@@ -15,7 +15,8 @@ Let's collaborate to bring your vision to life and unlock the full potential of 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Mikemupararano&label=Profile%20Views&color=9&icon=9&pretty=false" />
   </a>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mikemupararano&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
 
