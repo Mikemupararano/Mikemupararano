@@ -1,4 +1,5 @@
-## Web Developer & Data Scientist
+# Web Developer & Data Scientist
+## (Mike Thomas)
 ### Welcome to my corner of the web, where creativity meets data-driven insights!
 
 As a versatile professional skilled in both web development and data science, I'm here to bridge the gap between cutting-edge technology and user-centric design. Whether you're seeking to build a dynamic website that captivates your audience or harness the power of data to drive informed decisions, you've come to the right place.
