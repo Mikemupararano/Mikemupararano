@@ -11,5 +11,7 @@ Let's collaborate to bring your vision to life and unlock the full potential of 
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikemupararano)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mikemupararano&theme=chartreuse-dark)](https://git.io/streak-stats)
-[![](https://visitcount.itsvg.in/api?id=Mikemupararano&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Mikemupararano&label=Profile%20Views&color=9&icon=9&pretty=false" />
+</a>
 
