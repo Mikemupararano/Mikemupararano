@@ -1,4 +1,4 @@
-** `# Web Developer & Data Scientist ` **
+# Web Developer & Data Scientist 
 ## (Mike Thomas)
 ### Welcome to my corner of the web, where creativity meets data-driven insights!
 
